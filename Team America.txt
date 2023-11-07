@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>American Football Team Stats</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        table, th, td {
+            border: 1px solid red;
+        }
+        th, td {
+            padding: 8px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Team America</h1>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Number</th>
+            <th>Position</th>
+            <th>Touchdowns</th>
+            <th>Passing Yards</th>
+            <th>Rushing Yards</th>
+        </tr>
+        <tr>
+            <td>Matthew, Taylor</td>
+            <td>23</td>
+            <td>Quarterback</td>
+            <td>10</td>
+            <td>2000</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>John, Ramos</td>
+            <td>55</td>
+            <td>Wide Receiver</td>
+            <td>5</td>
+            <td>500</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Wendle, Herrera</td>
+            <td>42</td>
+            <td>Running Back</td>
+            <td>7</td>
+            <td>300</td>
+            <td>600</td>
+        </tr>
+        </tr>  
+            <td>Steven, Fredericksen</td>
+            <td>99</td>
+            <td>Saftey</td>
+            <td>7</td>
+            <td>330</td>
+            <td>602</td>
+                    </tr>
+        <tr>
+            <td>Robbie, Milligan</td>
+            <td>14</td>
+            <td>Linerbacker</td>
+            <td>10</td>
+            <td>2000</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>Michael, Friend</td>
+            <td>63</td>
+            <td>Defensive End</td>
+            <td>5</td>
+            <td>500</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Charles, Little</td>
+            <td>67</td>
+            <td>Defensive Tackle</td>
+            <td>7</td>
+            <td>300</td>
+            <td>600</td>
+        </tr>
+        </tr>  
+            <td>John, Hatch</td>
+            <td>78</td>
+            <td>Offensive Guard</td>
+            <td>7</td>
+            <td>330</td>
+            <td>602</td>
+        </tr>
+                <tr>
+            <td>Gordon, Butler</td>
+            <td>17</td>
+            <td>Tight End</td>
+            <td>5</td>
+            <td>500</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Andrew, Young</td>
+            <td>88</td>
+            <td>Defensive Tackle</td>
+            <td>7</td>
+            <td>300</td>
+            <td>600</td>
+        </tr>
+        </tr>  
+            <td>Eric, Dier</td>
+            <td>53</td>
+            <td>Cornerback</td>
+            <td>7</td>
+            <td>330</td>
+            <td>602</td>
+        <!-- Add more rows for other players -->
+    </table>
+</body>
+</html>
